@@ -1,0 +1,7 @@
+{
+    "package": "filterwords",
+    "name": "Filter Known Words",
+    "description": "Додаток для фільтрації відомих слів.",
+    "author": "Artur Yanovskiy",
+    "version": "1.0"
+}
